@@ -18,7 +18,7 @@ const DrawerInitiator = {
         event.stopPropagation();
         drawer.classList.remove('open');
     },
+};
 
-}
 
-export default DrawerInitiator
+export default DrawerInitiator;
